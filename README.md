@@ -10,4 +10,5 @@
 
 | 名称     | Telegram ID | 配置文件地址 | 备注 |
 |---------|-------------|------------|------|
-| mlatus | @mlatus | https://github.com/Ninlives/nixos-config | |
+| mlatus | @mlatus | [Github](https://github.com/Ninlives/nixos-config) | |
+| Vonfry | @Vonfry | [Gitlab](https://gitlab.com/Vonfry/dotfiles/-/tree/develop/etc/nixos) | |
