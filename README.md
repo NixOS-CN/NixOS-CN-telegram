@@ -1,2 +1,13 @@
 # NixOS-CN-telegram
-NixOS中文 telegram群组成员配置文件
+## Telegram群组链接
+
+| 群组链接                  | 名称              | 语言     | 备注                  |
+|-------------------------+-------------------+---------+----------------------|
+| https://t.me/nixos_zhcn | NixOS 中文         | 简体中文 |                      |
+| https://t.me/NixOS_zh   | NixOS             | 简体中文 | 原中文群组，目前比较沉默  |
+
+## 群友们的配置文件
+
+| 名称     | Telegram ID | 配置文件地址 | 备注 |
+|---------+-------------+------------+------|
+| mlatus | @mlatus | https://github.com/Ninlives/nixos-config | |
