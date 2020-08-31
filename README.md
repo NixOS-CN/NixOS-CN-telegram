@@ -13,3 +13,4 @@
 | mlatus | @mlatus | [GitHub](https://github.com/Ninlives/nixos-config) | |
 | Vonfry | @Vonfry | [Gitlab](https://gitlab.com/Vonfry/dotfiles/-/tree/develop/etc/nixos) | |
 | Harry Ying | @lexuge | [GitHub](https://github.com/LEXUGE/nixos) | |
+| dramforever | @dramforever | [GitHub](https://github.com/dramforever/config/tree/master/nixos) | |
