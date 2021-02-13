@@ -15,3 +15,5 @@
 | Harry Ying | @lexuge | [GitHub](https://github.com/LEXUGE/nixos) | |
 | dramforever | @dramforever | [GitHub](https://github.com/dramforever/config/tree/master/nixos) | |
 | Poscat | @poscat0x04 | [GitHub](https://github.com/poscat0x04/nixos-configuration) | |
+| wineee | @rewine | [GitHub](https://github.com/wineee/nixos-config) | |
+
