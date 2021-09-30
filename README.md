@@ -16,4 +16,4 @@
 | dramforever | @dramforever | [GitHub](https://github.com/dramforever/config) | |
 | Poscat | @poscat0x04 | [GitHub](https://github.com/poscat0x04/nixos-configuration) | |
 | wineee | @rewine | [GitHub](https://github.com/wineee/nixos-config) | |
-
+| 柑橘 | @whoa_whoa | [GitHub](https://github.com/uonr/magi) | |
