@@ -18,3 +18,4 @@
 | wineee | @rewine | [GitHub](https://github.com/wineee/nixos-config) | |
 | 柑橘 | @whoa_whoa | [GitHub](https://github.com/uonr/magi) | |
 | Vanilla | @My_Aim_Sucks | [GitHub](https://github.com/VergeDX/config-nixpkgs) | |
+| 中秋月 | @MidAutumnHotaru | [GitHub](https://github.com/MidAutumnMoon/MidAutumnMoon) | |
