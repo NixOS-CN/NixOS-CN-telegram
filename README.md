@@ -22,3 +22,4 @@
 | LC | @lc_fp | [GitHub](https://github.com/luochen1990/nixos-config) | 特点: 1. 用一套命名规范区分不同类型的 nix 文件; 2. 能将本repo作为可复用的框架 (私人的部分已经.gitignore掉了) |
 | ocfox | @ocfox | [GitHub](https://github.com/ocfox/nixos-config) | |
 | Yinfeng Lin | @yinfeng | [GitHub](https://github.com/linyinfeng/dotfiles) | |
+| Secirian | @Secirian | [GitHub](https://github.com/oluceps/nixos-config) | |
