@@ -24,3 +24,4 @@
 | Yinfeng Lin | @yinfeng | [GitHub](https://github.com/linyinfeng/dotfiles) | |
 | Secirian | @Secirian | [GitHub](https://github.com/oluceps/nixos-config) | |
 | Ruixi-rebirth | @Ruixi-rebirth | [GitHub](https://github.com/Ruixi-rebirth/nixos-config) | |
+| Mr Snake | @Snakepi | [GitHub](https://github.com/CnTeng/nixfiles) | |
