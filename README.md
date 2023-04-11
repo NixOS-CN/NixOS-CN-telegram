@@ -25,3 +25,4 @@
 | Secirian | @Secirian | [GitHub](https://github.com/oluceps/nixos-config) | |
 | Ruixi-rebirth | @Ruixi-rebirth | [GitHub](https://github.com/Ruixi-rebirth/nixos-config) | |
 | Mr Snake | @Snakepi | [GitHub](https://github.com/CnTeng/nixfiles) | |
+| Lan Tian | @xddxdd | [GitHub](https://github.com/xddxdd/nixos-config) | |
