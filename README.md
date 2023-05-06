@@ -27,3 +27,4 @@
 | Mr Snake | @Snakepi | [GitHub](https://github.com/CnTeng/nixfiles) | |
 | Lan Tian | @xddxdd | [GitHub](https://github.com/xddxdd/nixos-config) | |
 | A1ca7raz | @a1ca7raz | [GitHub](https://github.com/a1ca7raz/flakes) | ~~采用次世代NixOS Configuration框架 [Flamework](https://github.com/a1ca7raz/flamework)~~ |
+| mlyxshi | @mlyxshi | [GitHub](https://github.com/mlyxshi/flake) | |
