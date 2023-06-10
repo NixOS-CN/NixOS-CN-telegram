@@ -28,3 +28,4 @@
 | Lan Tian | @xddxdd | [GitHub](https://github.com/xddxdd/nixos-config) | |
 | A1ca7raz | @a1ca7raz | [GitHub](https://github.com/a1ca7raz/flakes) | ~~采用次世代NixOS Configuration框架 [Flamework](https://github.com/a1ca7raz/flamework)~~ |
 | mlyxshi | @mlyxshi | [GitHub](https://github.com/mlyxshi/flake) | |
+| ryan4yin | @ryan4yin | [GitHub](https://github.com/ryan4yin/nix-config) | 特点：1. 未使用 flake-utils 等第三方库，易于理解。 2. 适当共用 Linux/macOS 的基础配置 3. 配套提供超详细的新手入门文档  [NixOS & Nix Flakes - A Guide for Beginners](https://thiscute.world/posts/nixos-and-flake-basics/) |
