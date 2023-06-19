@@ -16,7 +16,7 @@
 | dramforever | @dramforever | [GitHub](https://github.com/dramforever/config) | |
 | Poscat | @poscat0x04 | [GitHub](https://github.com/poscat0x04/nixos-configuration) | |
 | wineee | @rewine | [GitHub](https://github.com/wineee/nixos-config) | |
-| 柑橘 | @whoa_whoa | [GitHub](https://github.com/uonr/monocell) | home-manager 的配置[拆分到了这里](https://github.com/uonr/sweet-home) |
+| 柑橘 | @whoa_whoa | [GitHub](https://github.com/uonr/mooncell) | home-manager 的配置[拆分到了这里](https://github.com/uonr/sweet-home) |
 | Vanilla | @My_Aim_Sucks | [GitHub](https://github.com/VergeDX/config-nixpkgs) | |
 | 中秋月 | @MidAutumnHotaru | [GitHub](https://github.com/MidAutumnMoon/MidAutumnMoon) | |
 | LC | @lc_fp | [GitHub](https://github.com/luochen1990/nixos-config) | 特点: 1. 用一套命名规范区分不同类型的 nix 文件; 2. 能将本repo作为可复用的框架 (私人的部分已经.gitignore掉了) |
