@@ -31,3 +31,4 @@
 | ryan4yin | @ryan4yin | [GitHub](https://github.com/ryan4yin/nix-config) | 特点：1. 未使用 flake-utils 等第三方库，易于理解。 2. 适当共用 Linux/macOS 的基础配置 3. 配套提供超详细的新手入门文档  [NixOS & Nix Flakes - A Guide for Beginners](https://thiscute.world/posts/nixos-and-flake-basics/) |
 | Zhenyu Wu | @zhenyu_wu | [GitHub](https://github.com/Freed-Wu/nixos) | |
 | Yingchi Long | @inclyc | [GitHub](https://github.com/inclyc/flakes) | |
+| Jason Wang | @Guanran928 | [GitHub](https://github.com/Guanran928/flake) | |
