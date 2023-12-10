@@ -11,7 +11,7 @@
 | 名称     | Telegram ID | 配置文件地址 | 备注 |
 |---------|-------------|------------|------|
 | mlatus | @mlatus | [GitHub](https://github.com/Ninlives/emerge) | |
-| Vonfry | @Vonfry | [Gitlab](https://gitlab.com/Vonfry/dotfiles/-/tree/develop/etc/nixos) | |
+| Vonfry | @Vonfry | [sr.ht](https://git.sr.ht/~vonfry/dotfiles/tree/master/item/etc/nixos) | |
 | Harry Ying | @lexuge | [GitHub](https://github.com/LEXUGE/nixos) | |
 | dramforever | @dramforever | [GitHub](https://github.com/dramforever/config) | |
 | Poscat | @poscat0x04 | [GitHub](https://github.com/poscat0x04/nixos-configuration) | |
