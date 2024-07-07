@@ -32,4 +32,4 @@
 | Zhenyu Wu | @zhenyu_wu | [GitHub](https://github.com/Freed-Wu/nixos) | |
 | Yingchi Long | @inclyc | [GitHub](https://github.com/inclyc/flakes) | |
 | Jason Wang | N/A | [GitHub](https://github.com/Guanran928/flake) | |
-| Kev | @yqlbu | [GitHub](https://github.com/yqlbu/nixos-config) | |
+| Kev | @piyoki | [GitHub](https://github.com/piyoki/nixos-config) | |
