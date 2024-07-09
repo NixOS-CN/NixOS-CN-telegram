@@ -34,3 +34,4 @@
 | Guanran Wang | N/A, Matrix: [@nyancat:ny4.dev](https://matrix.to/#/@nyancat:ny4.dev) | [git.ny4.dev](https://git.ny4.dev/nyancat/flake) | [nur-packages](https://github.com/Guanran928/nur-packages) |
 | Jason Wang | N/A | [GitHub](https://github.com/Guanran928/flake) | |
 | Kev | @piyoki | [GitHub](https://github.com/piyoki/nixos-config) | |
+| fairever | @fairever | [GitHub](https://github.com/ourgal/snowfall) | |
