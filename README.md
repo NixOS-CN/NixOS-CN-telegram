@@ -35,3 +35,4 @@
 | Jason Wang | N/A | [GitHub](https://github.com/Guanran928/flake) | |
 | Kev | @piyoki | [GitHub](https://github.com/piyoki/nixos-config) | |
 | fairever | @fairever | [GitHub](https://github.com/ourgal/snowfall) | |
+| codgician | @codgician | [GitHub](https://github.com/codgician/serenitea-pot) | |
