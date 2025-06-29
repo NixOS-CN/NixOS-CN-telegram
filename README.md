@@ -36,4 +36,5 @@
 | Kev | @piyoki | [GitHub](https://github.com/piyoki/nixos-config) | |
 | fairever | @fairever | [GitHub](https://github.com/ourgal/snowfall) | |
 | codgician | @codgician | [GitHub](https://github.com/codgician/serenitea-pot) | |
-| merrkry | @merrkry | [Github](https://github.com/merrkry/decalratia) |
+| merrkry | @merrkry | [Github](https://github.com/merrkry/decalratia) | |
+| Curious | @Curious | [Github](https://github.com/Curious-r/nix-config) |
