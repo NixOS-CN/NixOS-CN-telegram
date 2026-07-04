@@ -38,3 +38,4 @@
 | merrkry | @merrkry | [Github](https://github.com/merrkry/decalratia) | |
 | Curious | @Curious | [Github](https://github.com/Curious-r/nix-config) | |
 | lonerOrz | @lonerOrz | [Github](https://github.com/lonerOrz/loneros-nixos) | 我更喜欢用简单直接的方式进行配置 |
+| Jack77793 | @Jack77793 | [GitHub](https://github.com/Jack77793/nix-config) | |
