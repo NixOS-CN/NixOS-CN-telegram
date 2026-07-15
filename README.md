@@ -39,3 +39,4 @@
 | Curious | @Curious | [Github](https://github.com/Curious-r/nix-config) | |
 | lonerOrz | @lonerOrz | [Github](https://github.com/lonerOrz/loneros-nixos) | 我更喜欢用简单直接的方式进行配置 |
 | Jack77793 | @Jack77793 | [GitHub](https://github.com/Jack77793/nix-config) | |
+| hydroakri | @hydroakri | [GitHub](https://github.com/hydroakri/dotfiles) | 一个为个人日用场景提供性能、网络、隐私、安全、游戏等方面生产级优化的 NixOS 多机配置，为了简洁没有采用任何框架 |
