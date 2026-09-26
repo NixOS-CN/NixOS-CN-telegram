@@ -37,10 +37,9 @@
 | fairever | @fairever | [GitHub](https://github.com/ourgal/snowfall) | |
 | codgician | @codgician | [GitHub](https://github.com/codgician/serenitea-pot) | |
 | merrkry | @merrkry | [Github](https://github.com/merrkry/decalratia) | |
-| Curious | @Curious | [Github](https://github.com/Curious-r/nix-config) | |
+| Curious | @Curious | [Github](https://github.com/Curious-r/nix-config) | 已去除对 flake 以及其上框架的强依赖; 另外公开一个 [reusable package scope](https://github.com/Curious-r/nix-packages), 包含一些自用的补充包, 同样采取无 flake 风格，但仍方便 flake 用户取用 |
 | lonerOrz | @lonerOrz | [Github](https://github.com/lonerOrz/loneros-nixos) | 我更喜欢用简单直接的方式进行配置 |
 | Jack77793 | @Jack77793 | [GitHub](https://github.com/Jack77793/nix-config) | |
 | hydroakri | @hydroakri | [GitHub](https://github.com/hydroakri/dotfiles) | 一个为个人日用场景提供性能、网络、隐私、安全、游戏等方面生产级优化的 NixOS 多机配置，为了简洁没有采用任何框架 |
 | RhenCloud | @RhenCloud | [GitHub](https://github.com/RhenCloud/NixOS-Config) | ~~使用在不削减功能前提下实现超高性能的新一代 NixOS 配置框架 [Snowveil](https://github.com/SnowveilOrg/Snowveil)~~ |
 | Lhcfl | N/A | [Github](https://github.com/Lhcfl/nixos-cfg) | ~~适合用 AI 直接总结和加功能的 flake 仓库~~ |
-
