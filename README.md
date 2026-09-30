@@ -43,3 +43,4 @@
 | hydroakri | @hydroakri | [GitHub](https://github.com/hydroakri/dotfiles) | 一个为个人日用场景提供性能、网络、隐私、安全、游戏等方面生产级优化的 NixOS 多机配置，为了简洁没有采用任何框架 |
 | RhenCloud | @RhenCloud | [GitHub](https://github.com/RhenCloud/NixOS-Config) | ~~使用在不削减功能前提下实现超高性能的新一代 NixOS 配置框架 [Snowveil](https://github.com/SnowveilOrg/Snowveil)~~ |
 | Lhcfl | N/A | [Github](https://github.com/Lhcfl/nixos-cfg) | ~~适合用 AI 直接总结和加功能的 flake 仓库~~ |
+| LiAlH4 | N/A | [Github](https://github.com/LiAlH4qwq/nixos-config) | 现代化、结构化的 NixOS 配置，解耦特定设备与特定用户配置等，高自由度，并使用大量~~最新最热~~实验~~灵车（不是）~~特性
