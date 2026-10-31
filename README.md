@@ -45,3 +45,4 @@
 | Lhcfl | N/A | [Github](https://github.com/Lhcfl/nixos-cfg) | ~~适合用 AI 直接总结和加功能的 flake 仓库~~ |
 | LiAlH4 | N/A | [Github](https://github.com/LiAlH4qwq/nixos-config) | 现代化、结构化的 NixOS 配置，解耦特定设备与特定用户配置等，高自由度，并使用大量~~最新最热~~实验~~灵车（不是）~~特性 |
 | nanozuki | @Nanozuki | [GitHub](https://github.com/nanozuki/crows) | 通过git subtree分割出来的公共目录，只是配置的一部分 |
+| otakutyrant | @otakutyrant | [GitHub](https://github.com/otakutyrant/dotfiles) | 软件超前沿，尽可能用 Wayland、Rust、GTK 开发的应用，包括 Nushell；长期持续审计；格式吹毛环敞验证齐全；智能体友好，集成权限规则和技能，就连 Neovim 主题很适合针对人智开发驱动时代；统一窗口终端编辑器热键风格；Vim 热键风格普及；连同应用配置一并靠声明来管理；注释量大管饱；目录结构几乎完美得当事人都要自我陶醉了 |
